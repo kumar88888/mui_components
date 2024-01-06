@@ -1,6 +1,4 @@
-# Live Demo 
 
-https://mui-components-kuswanth-kumar.netlify.app/
 
 # React + Vite
 
