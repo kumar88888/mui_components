@@ -58,7 +58,7 @@ const App = () => {
           <MenuIcon />
         </IconButton>
         <Typography variant='h3' align='center'>
-          MUI Components
+          MUI
         </Typography>
         <Tabs value={selectedTab} onChange={handleTabChange} sx={{marginRight:"70px"}}>
           {components.map((component, index) => (
